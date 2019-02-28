@@ -43,7 +43,7 @@
     "commander": "^2.15.1",
     "commondir": "^1.0.1",
     "debug": "^4.0.1",
-    "dependency-tree": "^7.0.2",
+    "dependency-tree": "HypeHub/node-dependency-tree#track-git",
     "graphviz": "^0.0.8",
     "ora": "^3.0.0",
     "pify": "^4.0.0",
